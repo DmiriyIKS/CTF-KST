@@ -1,4 +1,4 @@
-# CTF-KST
+# CTF-KST WriteUp`s
 ## Список Тасков 
 
 1. WEB/[CTF-WIKI](WEB/CTF-WIKI.MD) - [8015 port](http://dmitriyiks.ru:8015/)
