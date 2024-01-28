@@ -4,6 +4,8 @@
 
 # Solve
 
+Использованный инстрементарий: Burp Suite Community Edition
+
 1.Переходим на сайт. После долгого(нет) поиска, находим один единственный параметр file.
 
 ![step1](https://i.imgur.com/He57ILc.png)
