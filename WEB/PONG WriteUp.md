@@ -4,6 +4,8 @@
 
 # Solve
 
+Использованный инстрементарий: Burp Suite Community Edition
+
 1.Переходим на сайт и видим страничку умеющую пинговать. Зная что ping системная утилита предполагаем что это Command Injection.
 
 ![step1](https://i.imgur.com/Jjfjaim.png)
